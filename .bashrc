@@ -1,0 +1,1 @@
+/home/thinh/.bashrc
